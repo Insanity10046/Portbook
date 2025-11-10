@@ -8,3 +8,9 @@ Portfolio tracker cli tool(not finished, on halt)
 - opening a position
 - closing a position
 - calculating pnl
+
+# CURRENT DOCUMENTATION
+```
+portbook list -a_id:[userid] position # track all position
+portbook get --stock -p # get the candlestick chart of a stock
+```
